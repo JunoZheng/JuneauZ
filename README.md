@@ -1,5 +1,5 @@
-- 👋 I'm Juneau.
-- 📫 email me!c2221216396@163.com
+- 👋 I'm Juno.
+- 📫 email me! zhengjinyu0621@gmail.com
 
 <!---
 JuneauZ/JuneauZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
